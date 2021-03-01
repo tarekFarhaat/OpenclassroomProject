@@ -1,0 +1,5 @@
+
+creation des foncs pour la partie front du cagnotte
+
+
+addd
